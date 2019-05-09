@@ -1,0 +1,32 @@
+---
+title: "Battle @ Daihaseisai"
+author: "red.katsuragi"
+date: "20 Juli 2014"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+mainfont: Linux Libertine Display O
+monofont: SauceCodePro Nerd Font
+---
+
+# Prolog
+
+Diadaptasi dari Serial Anime, *to aru Majutsu no Index* dan *To aru kagaku no Railgun*. Gakuen Toshi, atau dalam bahasa Indonesianya “Kota Akademi”, 80% penghuni kota ini adalah Pelajar. Para pelajar yang berada di dalam kota ini memiliki kemampuan psikis. Kemampuan psikis para pelajar dikategorikan kedalam level dengan skala 1-5 menurut kekuatan dan tingkat efisiensinya.
+Daihasesai adalah salah satu Festival tahunan terbesar di Kota Akademi.
+
+Pada Festival ini, para esper berkumpul dan mengikuti lomba-lomba yang telah dibuat. Kali ini, Board of Directors kota akademi membuat sebuah permainan Role-playing dengan hadiah sebuah Level Upper,sebuah alat yang mampu memperbesar kemampuan seorang esper. Rumor mengatakan bahwa level upper dapat menaikan level seorang Esper. Beberapa Esper yang tertarik kemudian menyatakan bersedia untuk berpartisipasi dalam permainan.
+
+# Role-Playing
+## TeamBaddies – Minoritas yang Terorganisir
+
++ Sogita Gunha [Werewolf] : 7th Ranked Level 5. Dengan kemampuan Attack Crash. Dia menjadi pemimpin Baddies, setiap malam membunuh Seorang Esper.
+
++ Mugino Shizuri [Roleblocker]: 4th Ranked Level 5. Memiliki kemampuan Meltdowner. Dengan Meltdowner, Ia mampu menahan power seorang Esper di malam hari. Tidak mampu memblok dirinya dan Esper yang sama 2 kali berturut-turut
+
+## TeamNetral – Here comes the troublemaker !! .
++ Accelerator : 1st Ranked Level 5. Memiliki kemampuan untuk memanipulasi Vektor. Setiap malam Ia dapat membelokan semua Request power yang di arahkan kepadanya menuju Seorang Esper. Akan memblok kemampuan Shokuho Misaki jika di scan.
+
++ Index [Berkat 1x]: Seorang Magician yang menyamar menjadi Esper level 0. Pada malam 1 atau malam 2 memilih seorang Esper untuk diberkati. Esper yang diberkati akan terbebas dari lynch atau kill di fase berikutnya. Tidak dapat memberkati dirinya sendiri dan Accelerator. Berkat hanya bisa dilakukan 1 kali selama permainan.
+
+Power Priority :
+Accelerator %> Meltdowner > Dark Matter = Berkat Index > Railgun = Attack Crash > Mental Out 
